@@ -38,6 +38,13 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpwNDM0MW5sZzFibm42MjIzbTJhb3Bnb2Zlb2lkZHR5eWN0ZzJ5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MohammadJaffar/MohammadJaffar/output/snake.svg" alt="Snake animation" />
 
 ###
 
