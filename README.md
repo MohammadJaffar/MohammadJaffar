@@ -42,11 +42,6 @@
 
 ###
 
-<br clear="both">
-
-
-###
-
 <p align="left">Thanks for visiting my profile! Let’s build something amazing together. 😊</p>
 
 ###
